@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "Cascade Mono",
+    "editor.codeLensFontFamily": "Cascade Mono",
+    "editor.inlayHints.fontFamily": "Cascade Mono",
+    "scm.inputFontFamily": "Cascade Mono",
+    "debug.console.fontFamily": "Casecade Mono",
+    "markdown.preview.fontFamily": "Cascade Mono",
+    "notebook.output.fontFamily": "Casecade Mono",
+    "terminal.integrated.fontFamily": "Cascade Mono",
+    "interactiveSession.editor.fontFamily": "Cascade Mono",
+    "interactiveSession.editor.fontWeight": "Cascade Mono",
+    "python.analysis.typeCheckingMode": "off"
+}
